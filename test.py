@@ -1,3 +1,4 @@
+#  это мой прокт по github
 print('Bye')
 print('what up')
 print('My name is Adiya')
