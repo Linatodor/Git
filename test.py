@@ -1,7 +1,7 @@
-#  это мой прокт по github
-print('Bye')
-print('what up')
-print('My name is Adiya')
-print('game over')
-print('my name id=s artuth')
-print('sussssssssssssss')
+a = int(input())
+b = int(input())
+if -1 == a - b or a - b == 1:
+  print('Yes')
+else:
+  print('No')
+
